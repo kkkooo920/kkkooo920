@@ -1,16 +1,24 @@
-## Hi there 👋
+# 自己紹介
 
-<!--
-**kkkooo920/kkkooo920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C/C++をメインに扱うソフトウェアエンジニアです。  
+個人の学習・検証用のプライベートアカウントとして運用しています。
 
-Here are some ideas to get you started:
+## 興味・関心
+- QC管理
+- UML設計
+- C / C++
+- テスト評価
+- Claude Code / Copilot CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 使用技術・ツール
+- **言語**：C / C++
+- **開発環境**：VS Code / Visual Studio
+- **記録・ドキュメント**：Obsidian / Excel
+- **AIツール**：Claude Code / Gemini / Copilot CLI
+
+## 現在学んでいること
+- C/C++の動的解析・テスト
+- AI駆動開発
+
+## 制作物・リポジトリ
+- 鋭意制作中
