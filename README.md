@@ -9,6 +9,8 @@ C/C++をメインに扱うソフトウェアエンジニアです。
 - C / C++
 - テスト評価
 - Claude Code / Copilot CLI
+- Linux
+- Ubuntu
 - 東海オンエア
 
 ## 使用技術・ツール
